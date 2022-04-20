@@ -1,0 +1,92 @@
+
+.axe-image{
+    height: 200px;
+    margin-bottom: 0px;
+    margin-left: 200px;
+    margin-right: 62.5px;
+    margin-top: 0px;
+    width: 200px;
+    padding-top: 60px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 99px;
+ 
+}
+.split{
+    display: flex;
+    justify-content: space-evenly;
+   
+    
+}
+.info1{
+    text-align: center;
+    display: block;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: -10px;
+}
+.info2{
+    text-align: center;
+    
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: -10px;
+    line-height: 45px
+}
+.info3{
+    text-align: center;
+    font-size: 28px;
+    line-height: 30px;
+
+}
+.info4{
+    text-align: center;
+    font-size: 25px;
+    line-height: 30px;
+
+}
+.newc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+.returnc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.text-field{
+    background-color: #012465;
+    height: 50px;
+    width: 250px;
+    border: 1px solid white;
+    margin-right: 10px;
+    
+    
+
+}
+.new-customer{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 8px;
+    
+
+}
+.search-btn{
+    width: 110px;
+    height: 55px;
+    font-size: 20px;
+    border-radius: 8px;
+    
+    
+}

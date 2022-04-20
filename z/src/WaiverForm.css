@@ -1,0 +1,27 @@
+.waiver-wrapper{
+   margin: 0 auto;
+    width: 1280px;
+}
+
+.waiver-header{
+    text-align: center;
+}
+.text-wrapper{
+    text-align: center;
+}
+
+.signature{
+    margin-left: 27em;
+    
+}
+.signature-input{
+    background-color: white;
+    color: black;
+}
+.submit-btn{
+    height: 50px;
+    width: 130px;
+    border-radius: 8px;
+    margin-left: 42em;
+    margin-top: 20px;
+}
